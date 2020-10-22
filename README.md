@@ -14,6 +14,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
 [2]: https://www.instagram.com/ghirailghiro/
 
 ### - 🔭 Something about me ...
+        🏍️ Motorsport
         ⚙️ Technology enthusiast
         ⛑️ Italian Red Cross volunteer
         🚒 Forest Firefighter volunteer

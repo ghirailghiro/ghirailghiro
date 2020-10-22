@@ -12,7 +12,9 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
 
 [1]: https://twitter.com/
 [2]: https://www.instagram.com/ghirailghiro/
-
+###- 🔭 Something about me ...
+        ⛑️ Italian Red Cross volunteer
+        
 ### - 🧰 Toolbox:
 
 ### - 🌱 I’m currently learning:<br>

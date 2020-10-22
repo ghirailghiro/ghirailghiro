@@ -26,8 +26,8 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
         🏭 Software Engineering
 ### - 🧰 Toolbox:
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)
-### - 🌎 Languages I can speak:
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+### - 🐱‍👤 Languages I can speak:
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=A0C4E2)
 
 
 

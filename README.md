@@ -25,7 +25,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
         🌐 Web Application Development
         🏭 Software Engineering
 ### - 🧰 Toolbox:
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++L&logoColor=white&color=2bbc8a)
 
 
 

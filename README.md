@@ -7,7 +7,6 @@ Social media: [![Twitter][1.2]][1]
 <!-- Icons [![Instagram][2.1]][2]-->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]:
 
 <!-- Links to your social media accounts -->
 

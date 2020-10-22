@@ -19,13 +19,15 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
         ⚙️ Technology enthusiast
         ⛑️ Italian Red Cross volunteer
         🚒 Forest Firefighter volunteer
-### - 🧰 Toolbox:
-
 ### - 🌱 I’m currently learning:<br>
         🐱‍💻 Computer Security
         ⚛️ Quantum Computing
         🌐 Web Application Development
         🏭 Software Engineering
+### - 🧰 Toolbox:
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+
+
 
 <!--
 **ghirailghiro/ghirailghiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

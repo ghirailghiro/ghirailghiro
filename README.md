@@ -3,7 +3,7 @@
 
 ### - 📫 How to reach me:<br>
 Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ghirardellim2@gmail.com)](mailto:ghirardellim2@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-ghirardellim1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ghirardellim1@gmail.com)](mailto:ghirardellim1@gmail.com)<br>
-Social media: [![Twitter][1.2]][1]
+<!--Social media: [![Twitter][1.2]][1]-->
 <!-- Icons [![Instagram][2.1]][2]-->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)

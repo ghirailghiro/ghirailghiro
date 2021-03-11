@@ -24,6 +24,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
         ⚛️ Quantum Computing
         🌐 Web Application Development
         🏭 Software Engineering
+        📈 Data Science
 ### - 🧰 Toolbox:
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat&logo=IDE&logoColor=white&color=red)![](https://img.shields.io/badge/OS-Windowsx64-informational?style=flat&logo=Windows&logoColor=white&color=red)![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
 ### - 🐱‍👤 My Languages:

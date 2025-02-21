@@ -10,24 +10,7 @@ Email: [![Gmail Badge](https://img.shields.io/badge/-ghirardellim2@gmail.com-c14
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/
-[2]: https://www.instagram.com/ghirailghiro/
-
-### - 🔭 Something about me ...
-        🏙️ From Genoa, Italy
-        🏍️ Motorsport
-        ⚙️ Technology enthusiast
-        ⛑️ Italian Red Cross volunteer
-        🚒 Forest Firefighter volunteer
-### - 🌱 I’m currently learning:<br>
-        🌐 Neural Network
-        🏭 Machine Learning
-        📈 Data Science
-### - 🧰 Toolbox:
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat&logo=IDE&logoColor=white&color=red)![](https://img.shields.io/badge/OS-Windowsx64-informational?style=flat&logo=Windows&logoColor=white&color=red)![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
-### - 🐱‍👤 My Languages:
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=A0C4E2)![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=A0C4E2)
-
+[1]: https://www.instagram.com/ghirailghiro/
 
 
 <!--
